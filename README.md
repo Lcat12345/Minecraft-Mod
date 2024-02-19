@@ -1,8 +1,23 @@
 # Minecraft-Mod
 
-마인크래프트 모드 서버 설명입니다.
-쓰여있지 않은 내용은 알아내지 못한 기능들입니다.
+적용되어 있는 모드
+- Create
+- Farmers Delight
+- Funiture
+- better combat
+- mahou tsukai
+- justleveling
+- Simply Swords
+- just enough item ( 조합법을 보여주는 모드 )
 
+## 어떻게 즐겨야 하나요?
+서버에는 'justLeveling'모드가 적용되어 있어서 일정 레벨에 도달하지 못하면  
+기본적으로 만들 수 있는 도구들(철 칼, 철 곡괭이 등등..)이나 씨앗들을 사용하거나 심을 수 없습니다.  
+
+Create모드와 Farmers Delight모드의 근간이 되는 아이템들을 모으거나 몬스터를 잡으면서 스탯을 올립니다.
+
+
+ 
 ## Inventory Essentials
 
 Bulk Drop : 클릭한 아이템을 모두 버립니다. ( 해당 항목의 여러 세트가 버려집니다. )  
@@ -16,4 +31,17 @@ Transfer one : 해당 키를 입력하면 아이템이 한 개씩 이동합니�
   
 추천하는 키설정 : Hold 기능을 전부 space로 바꿉니다.
 
+## mahou tsukai
 
+마법진을 그려서 마법을 사용 할 수 있게 해주는 모드입니다.  
+
+먼저 마호 츠카이 지식서를 만들면 됩니다.
+
+## Simply Swords
+
+다양한 검들이 추가됩니다.  
+조합법이 나오지 않는 검들은 상자에서 등장합니다.  
+
+## Create & Farmers Delight
+
+L키를 눌러서 도전과제를 따라갑니다.
