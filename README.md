@@ -45,3 +45,6 @@ Transfer one : 해당 키를 입력하면 아이템이 한 개씩 이동합니�
 ## Create & Farmers Delight
 
 L키를 눌러서 도전과제를 따라갑니다.
+
+## 모드 다운 링크
+https://drive.google.com/file/d/1fsmOwzW-es1pRzL4KGCEjyoXm83iKq_i/view?usp=sharing
