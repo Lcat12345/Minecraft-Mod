@@ -25,7 +25,6 @@
 L키를 눌러서 도전과제를 따라갑니다.
 
 ## 모드 다운 링크
-https://drive.google.com/file/d/1fsmOwzW-es1pRzL4KGCEjyoXm83iKq_i/view?usp=sharing
 
 포지 모드로더가 없다면 포지 모드로더를 설치해야 합니다.
 포지 모드로더 링크
